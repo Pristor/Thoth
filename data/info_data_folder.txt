@@ -1,0 +1,3 @@
+The compressed .hp5f file of the partitioned iam-dataset will be put here
+
+you can also save a selfwritten image called test.png, you will get a prediction and visualization of the CNN-Layers
