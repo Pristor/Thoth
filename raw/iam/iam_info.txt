@@ -1,0 +1,1 @@
+Put the iam Dataset here, files needed: lines, partitions, lines.txt
