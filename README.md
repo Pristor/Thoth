@@ -16,6 +16,9 @@ http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
 Puigverver-Model:
 
 5 CNN Layers with RELU-Activation
+
 5 BLSTM with dropout
+
 Dense + Softmax
+
 CTC-Decoding
