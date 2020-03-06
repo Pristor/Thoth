@@ -1,7 +1,7 @@
 # Thoth
 Handwritten Text Recognition
 
-Little prject to recognise handwritten text with Tensorflow 2.0
+Little project to recognise handwritten text with Tensorflow 2.0
 
 ## For documentation visit:
 
